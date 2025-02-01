@@ -1,4 +1,4 @@
-Hi, I am Tsvetan 👋<br>I am currently studying Java Basics in SoftUni
+Hi, I am Tsvetan 👋<br>I am currently studying Java Advanced and OOP in SoftUni
 
 
 ## 🌐 Socials:
