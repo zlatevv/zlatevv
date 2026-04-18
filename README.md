@@ -10,10 +10,7 @@
   <p>
     I build robust backend solutions, focusing on clean architecture, microservices, and efficient APIs using Java and Spring Boot.
   </p>
-  
-  <a href="mailto:cvetanzlatev30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
   <a href="https://instagram.com/zlatevx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -22,6 +19,9 @@
   </a>
   <a href="https://www.linkedin.com/in/tsvetan-zlatev-28919235a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cvetanzlatev30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
