@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./emblem.png" alt="Tsvetan Zlatev - Java Spring Backend Developer" width="100%" />
 </div>
+
 <br/>
 <br/>
 
@@ -58,6 +59,14 @@ A comprehensive microservice-based platform for tracking school equipment and pr
 * **Tech:** Java 17, Spring Boot, Spring Security (JWT), MySQL, RabbitMQ, Docker, Vanilla JS.
 * **Highlights:** Implemented role-based access control, heavy emphasis on microservice architecture, an asynchronous notification system using RabbitMQ, and secure RESTful endpoints routed through an API Gateway. 
 
+<br/>
+
+<div align="center">
+  <img src="./Screenshot 2026-04-19 143038.png" alt="School Inventory System" width="100%" />
+</div>
+
+<br/>
+<br/>
 ---
 
 ## 📈 GitHub Activity
