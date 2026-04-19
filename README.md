@@ -56,7 +56,7 @@
 ### [School Inventory Management System](https://github.com/zlatevv)
 A comprehensive microservice-based platform for tracking school equipment and processing borrowing requests.
 * **Tech:** Java 17, Spring Boot, Spring Security (JWT), MySQL, RabbitMQ, Docker, Vanilla JS.
-* **Highlights:** Implemented role-based access control, an asynchronous notification system using RabbitMQ, and secure RESTful endpoints routed through an API Gateway. 
+* **Highlights:** Implemented role-based access control, heavy emphasis on microservice architecture, an asynchronous notification system using RabbitMQ, and secure RESTful endpoints routed through an API Gateway. 
 
 ---
 
