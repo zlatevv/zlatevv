@@ -61,10 +61,6 @@ A comprehensive microservice-based platform for tracking school equipment and pr
 
 <br/>
 
-<div align="center">
-  <img src="./Screenshot 2026-04-19 143038.png" alt="School Inventory System" width="100%" />
-</div>
-
 <br/>
 <br/>
 ---
