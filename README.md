@@ -24,6 +24,12 @@ My primary focus is on backend development using **Java** and **Spring Boot**. I
 ---
 
 ### Featured Projects
+- **RareManuscripts Portal** <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <br> *My favorite and most ambitious project — a complete digital preservation platform designed for managing, protecting, and researching rare historical manuscripts.*
+  <br><br>
+  <img src="./raremanuscripts-home.png" width="800" alt="RareManuscripts Homepage"/>
+  <br><br>
+  *Built with a microservice architecture featuring Spring Boot services, JWT authentication, role-based access control, Redis caching, AI-assisted functionality, and a React-based user experience. The platform allows researchers to explore manuscripts, request access, create study notes, and reserve reading-room sessions while giving curators powerful management tools.*
 
 - **School Inventory Management** <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
   <br> *A robust resource management system built during my professional internship at AIBEST, featuring message brokering and secure data handling.*
@@ -36,9 +42,6 @@ My primary focus is on backend development using **Java** and **Spring Boot**. I
 
 - **EcoSwap** <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <br> *A community-driven platform designed to encourage sustainable habits by allowing users to swap and recycle everyday items.*
-
-- **RareManuscripts Portal** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <br> *A responsive frontend interface built to archive, display, and search through historical documents and rare texts.*
 
 - **Smart Wallet** <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
   <br> *A personal finance tracking application using server-side rendering to manage budgets and monitor daily expenses.*
